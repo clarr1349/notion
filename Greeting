@@ -1,6 +1,6 @@
 <html> 
 <head>
-    <title>hello</title> 
+    <title>Greeting Message</title> 
     <style>
 #lbl {
     font-family: monospace;
